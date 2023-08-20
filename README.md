@@ -1,5 +1,7 @@
 # Empire State Development data scraper
 
+[![Tests](https://github.com/reinventalbany/esd-crawl/actions/workflows/test.yml/badge.svg)](https://github.com/reinventalbany/esd-crawl/actions/workflows/test.yml)
+
 The goal of this tool is to find data on the [Empire State Development website](https://esd.ny.gov/), either in web pages or PDFs. [Running notes document.](https://docs.google.com/document/d/1HaWvHlpCYcD1SRmZn9DbsQoFCkvywBifcyME4cvjT-k/edit)
 
 ## Technical overview
